@@ -226,5 +226,5 @@ to allow for the usage of experimental components(LazyGrid) within it.
 
 By implementing Design patterns we may hide and abstractize away the need for the client to know all the details and requirements for using objects, thus limiting the ammount of errors and the time needed for a person to get productive with the libraries.
 As a result, within this project, the user need only know about the Facade for the game creation, the two modus operandi of the game, and the User Interfaces available to them.
-![img.png](img.png))
-![img_1.png](img_1.png)
+![https://github.com/AlmightyCrickityCrick/TMPS_LAB2/blob/main/src/main/resources/img.png](https://github.com/AlmightyCrickityCrick/TMPS_LAB2/blob/main/src/main/resources/img.png))
+![https://github.com/AlmightyCrickityCrick/TMPS_LAB2/blob/main/src/main/resources/img_1.png](https://github.com/AlmightyCrickityCrick/TMPS_LAB2/blob/main/src/main/resources/img_1.png)
